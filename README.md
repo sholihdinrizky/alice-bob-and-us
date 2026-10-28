@@ -1,4 +1,4 @@
-# alice-bob-and-us
+# Tugas 2 Kelompok - Keamanan Informasi
 
 Simulasi **distribusi kunci lewat KDC** dan **chat terenkripsi AES** antara dua orang (Alice dan Bob) yang berjalan di jaringan nyata. Dibuat untuk Tugas 2 mata kuliah Keamanan Informasi.
 
